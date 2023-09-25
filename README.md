@@ -15,7 +15,7 @@ Xcode code snippets for the Swift Composable Architecture (TCA)
 
 ### `feature`
 
-Create snippets for the reducer, view and preview for a feature
+Creates snippets for the reducer, view and preview for a feature
 
 | Figure.1 | Figure.2 |
 | --- | --- |
@@ -23,7 +23,7 @@ Create snippets for the reducer, view and preview for a feature
 
 ### `testfeature`
 
-Create scenario test method for a feature. You should use the completion inside of the test class.
+Creates scenario test method for a feature. You should use the completion inside of the test class.
 
 | Figure.1 | Figure.2 |
 | --- | --- |
@@ -34,7 +34,7 @@ Create scenario test method for a feature. You should use the completion inside 
 ## 한국어
 
 1. 다음 경로에 자동으로 `Reducer` 와 `View`, `Preview` 까지 생성하는 코드 스니펫 파일이 있습니다.
-> `/XcodeSnippets/FeatureSnippet.codesnippet`
+> `/XcodeSnippets/FeatureTemplate.codesnippet`
 
 2. 터미널을 열고 다음 명령어를 실행하여 Xcode에 코드 스니펫 관리 폴더를 엽니다.
 > `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
@@ -47,7 +47,7 @@ Create scenario test method for a feature. You should use the completion inside 
 ## English
 
 1. You have an auto-generated code snippet file at the following path:
-> `/XcodeSnippets/FeatureSnippet.codesnippet`
+> `/XcodeSnippets/FeatureTemplate.codesnippet`
 
 2. Open your terminal and execute the following command to open the code snippet management folder in Xcode:
 > `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
@@ -59,7 +59,7 @@ Create scenario test method for a feature. You should use the completion inside 
 ## 中文
 
 1. 您在以下路径有一个自动生成的代码片段文件：
-> `/XcodeSnippets/FeatureSnippet.codesnippet`
+> `/XcodeSnippets/FeatureTemplate.codesnippet`
 
 2. 打开终端并执行以下命令，以打开Xcode中的代码片段管理文件夹：
 > `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
@@ -71,7 +71,7 @@ Create scenario test method for a feature. You should use the completion inside 
 ## 日本語
 
 1. 次のパスに自動生成されたコードスニペットファイルがあります。
-> `/XcodeSnippets/FeatureSnippet.codesnippet`
+> `/XcodeSnippets/FeatureTemplate.codesnippet`
 
 2. ターミナルを開き、Xcodeのコードスニペット管理フォルダを開くには、次のコマンドを実行してください。
 > `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
