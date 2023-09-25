@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>testfeature</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>func test_&lt;#Scenario#&gt;() async throws {
+        let store = TestStore(
+            initialState: &lt;#Feature.State#&gt;,
+            reducer: { &lt;#Feature#&gt; },
+            withDependencies: { &lt;#$0.dependency = testValue#&gt; }
+        )
+        
+        store.exhaustivity = &lt;#.off(showSkippedAssertions: true)#&gt;
+        
+        await store.send(&lt;#Action#&gt;)
+    }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>30D672F5-BD09-4C65-B115-EE97E64978F9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Tests scenario of the feature</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Feature Test Method Template</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
