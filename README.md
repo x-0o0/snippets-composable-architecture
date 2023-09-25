@@ -1,5 +1,5 @@
 # snippets-composable-architecture
-Xcode code snippets for the Swift Composable Architecture (TCA)
+Xcode code snippets for the [Swift Composable Architecture (TCA)](https://github.com/pointfreeco/swift-composable-architecture)
 
 ##### Table of Contents  
 - [Overview](#overview)
