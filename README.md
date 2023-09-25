@@ -19,7 +19,7 @@ Creates snippets for the reducer, view and preview for a feature
 
 | Figure.1 | Figure.2 |
 | --- | --- |
-| <img width="398" alt="Screenshot 2023-09-25 at 11 51 38 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/ec21e28e-0654-4e90-bc7f-05e4e17ed3e0"> | <img width="656" alt="Screenshot 2023-09-25 at 11 51 46 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/ce0f234c-3db2-448f-b9f4-131c730588c2"> |
+| <img width="398" alt="Screenshot 2023-09-25 at 11 51 38 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/203ab202-7f89-4bf4-9ff3-3487eaefad96"> | <img width="656" alt="Screenshot 2023-09-25 at 11 51 46 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/90694147-3b12-47f7-91b6-154dbaf21814"> |
 
 ### `testfeature`
 
@@ -27,7 +27,7 @@ Creates scenario test method for a feature. You should use the completion inside
 
 | Figure.1 | Figure.2 |
 | --- | --- |
-| <img width="409" alt="Screenshot 2023-09-25 at 11 52 21 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/32c8633c-cb1e-4ff0-9b7d-4b93af8d3bd9"> | <img width="546" alt="Screenshot 2023-09-25 at 11 52 30 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/cb05d860-ac9f-4b13-bf06-a55318601607"> |
+| <img width="409" alt="Screenshot 2023-09-25 at 11 52 21 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/97df74dd-84de-46bd-bd64-425d20832065"> | <img width="546" alt="Screenshot 2023-09-25 at 11 52 30 PM" src="https://github.com/jaesung-0o0/snippets-composable-architecture/assets/53814741/b263a45e-cd0b-4812-96ea-17e4adcba562"> |
 
 ## How to use
 
