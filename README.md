@@ -34,10 +34,14 @@ Creates scenario test method for a feature. You should use the completion inside
 ## 한국어
 
 1. 다음 경로에 자동으로 `Reducer` 와 `View`, `Preview` 까지 생성하는 코드 스니펫 파일이 있습니다.
-> `/XcodeSnippets/FeatureTemplate.codesnippet`
+```
+/XcodeSnippets/FeatureTemplate.codesnippet
+```
 
-2. 터미널을 열고 다음 명령어를 실행하여 Xcode에 코드 스니펫 관리 폴더를 엽니다.
-> `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
+3. 터미널을 열고 다음 명령어를 실행하여 Xcode에 코드 스니펫 관리 폴더를 엽니다.
+```bash
+$ open Library/Developer/Xcode/UserData/CodeSnippets/
+```
 
 3. 폴더에 코드 스니펫 파일을 복사 붙여넣기 합니다.
 
@@ -47,10 +51,14 @@ Creates scenario test method for a feature. You should use the completion inside
 ## English
 
 1. You have an auto-generated code snippet file at the following path:
-> `/XcodeSnippets/FeatureTemplate.codesnippet`
+```
+/XcodeSnippets/FeatureTemplate.codesnippet
+```
 
-2. Open your terminal and execute the following command to open the code snippet management folder in Xcode:
-> `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
+3. Open your terminal and execute the following command to open the code snippet management folder in Xcode:
+```bash
+$ open Library/Developer/Xcode/UserData/CodeSnippets/
+```
 
 3. Copy and paste the code snippet file into this folder.
 
@@ -59,10 +67,14 @@ Creates scenario test method for a feature. You should use the completion inside
 ## 中文
 
 1. 您在以下路径有一个自动生成的代码片段文件：
-> `/XcodeSnippets/FeatureTemplate.codesnippet`
+```
+/XcodeSnippets/FeatureTemplate.codesnippet
+```
 
-2. 打开终端并执行以下命令，以打开Xcode中的代码片段管理文件夹：
-> `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
+3. 打开终端并执行以下命令，以打开Xcode中的代码片段管理文件夹：
+```bash
+$ open Library/Developer/Xcode/UserData/CodeSnippets/
+```
 
 3. 复制并粘贴代码片段文件到这个文件夹中。
 
@@ -71,10 +83,14 @@ Creates scenario test method for a feature. You should use the completion inside
 ## 日本語
 
 1. 次のパスに自動生成されたコードスニペットファイルがあります。
-> `/XcodeSnippets/FeatureTemplate.codesnippet`
+```
+/XcodeSnippets/FeatureTemplate.codesnippet
+```
 
-2. ターミナルを開き、Xcodeのコードスニペット管理フォルダを開くには、次のコマンドを実行してください。
-> `$ open Library/Developer/Xcode/UserData/CodeSnippets/`
+3. ターミナルを開き、Xcodeのコードスニペット管理フォルダを開くには、次のコマンドを実行してください。
+```bash
+$ open Library/Developer/Xcode/UserData/CodeSnippets/
+```
 
 3. コードスニペットファイルをこのフォルダにコピーして貼り付けます。
 
